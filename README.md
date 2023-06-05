@@ -7,8 +7,6 @@
 
 #### 👯 I’m looking to collaborate on Rust and Networking projects.
 
-#### 🤔 I’m looking for help with setting up a blog on my [website](https://shivanibhardwaj.com).
-
 #### 💬 Talk to me about Open Source, \*nix p\*rn, ..(other things will come up 😉)
 
 #### 📫 How to reach me: 404B, Baker Street
