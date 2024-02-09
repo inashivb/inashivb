@@ -1,10 +1,10 @@
-# Helleoooooo, beautiful human! 👋
+# Hey there!
 
 #### 🔭 I’m currently working on Suricata.
 
-#### 🌱 I’m currently learning Rust, Suricata and Computer Networking.
+#### 🌱 I’m currently learning Suricata and Programming.
 
-#### 👯 I’m looking to collaborate on Rust, Suricata and Computer Networking projects.
+#### 👯 I’m looking to collaborate on Suricata and Computer Networking projects.
 
 #### 💬 Talk to me about Open Source, \*nix p\*rn, Suricata ..(other things will come up 😉)
 
